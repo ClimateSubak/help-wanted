@@ -29,3 +29,6 @@ Areas we feel a data-driven approach to making change could help
 - Framework to choose and find most impactful open source climate projects (!)
 - Coal Mine Methane (Ember)
 - ...
+
+## Contributing
+We want your ideas. Please drop an issue or PR on here.
