@@ -10,7 +10,12 @@ Please [sign up to our newsletter](https://climatesubak.org/newsletter) to keep 
 
 Do consider [applying to our accelerate program](https://climatesubak.org/apply-accelerator) or to be a [Subak Fellow](https://climatesubak.org/fellowship-apply) or else just [get in touch](https://climatesubak.org/contact).
 
-## Subak Member's projects
+## Subak Members
+
+### Jobs
+See open roles with Subak and links to our member's job pages on [our careers page](https://climatesubak.org/careers).
+
+### Open Source projects
 Some of these projects are open source and might need your help.  
 
 - [Open Climate Fix](https://github.com/openclimatefix/)
